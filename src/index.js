@@ -1,9 +1,9 @@
-function soma(a, b) {
-    return a + b;
-}
+function sum(a, b) {return a + b}
+function division(a, b) {return a / b}
+function checkBoolean(param) {return param}
 
-function divisao(a, b) {
-    return a / b
-}
-
-module.exports = { soma, divisao };
+module.exports = {
+    sum,
+    division,
+    checkBoolean
+};
