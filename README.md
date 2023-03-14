@@ -6,4 +6,4 @@
 
     npm run test
 
-*run the jest --watch command*
+*run the 'jest --watch' command*
